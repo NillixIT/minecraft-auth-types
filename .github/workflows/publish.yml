@@ -22,6 +22,8 @@ jobs:
           scope: '@nillix'
       - name: Install dependencies
         run: yarn
+      - name: Build package
+        run: yarn build
       - name: Publish package
         run: yarn publish --access restricted
         env:
