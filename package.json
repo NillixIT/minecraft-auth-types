@@ -1,12 +1,12 @@
 {
-  "name": "@nillix/minecraft-auth-types",
+  "name": "@nillixit/minecraft-auth-types",
   "version": "1.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nillix/minecraft-auth-types.git"
+    "url": "https://github.com/NillixIT/minecraft-auth-types.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
